@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# METRIP
 
-`CURSO`
+`ADS`
 
-`DISCIPLINA`
+`DISCIPLINA: PROJETOS`
 
-`SEMESTRE`
+`3º PERIODO`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
