@@ -80,15 +80,15 @@ Para a organização e distribuição das tarefas do projeto, a equipe está uti
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir. 
 
-| Ambiente |    Plataforma | Link de acesso|
-
-| Repositório de Código Fonte | GitHub |   |
-| Documentação do Projeto |  GitHub | DOCS  |
-| Projeto de Interface e Wireframes | Adobe XD  |
+| Ambiente | Plataforma | Link de acesso|
+|------|---------|---------|
+| Repositório de Código Fonte | GitHub | ---- |
+| Documentação do Projeto | GitHub | DOCS |
+| Projeto de Interface e Wireframes | Adobe XD |
 | Gerenciamento do Projeto | Jira |  
 | Criação de Diagramas | LucidChart | MeTrip - Diagramas, Esquemas e Fluxogramas |
-| Editor de código |       |     |
-| Ferramentas de Comunicação | MS Teams, Meet, WhatsApp |   |
+| Editor de código |   -----    |  -----   |
+| Ferramentas de Comunicação | MS Teams, Meet, WhatsApp | ----  |
 
  
 
