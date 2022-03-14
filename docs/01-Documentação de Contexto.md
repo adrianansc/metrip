@@ -19,7 +19,7 @@ O objetivo geral deste projeto é a criação de um aplicativo mobile para regis
 
 ### Objetivos Específicos
 
-Quanto aos objetivos específicos deste trabalho, podemos destacar: 
+  Quanto aos objetivos específicos deste trabalho, podemos destacar: 
 
 1. Dispor de um aplicativo mobile acessível localmente de qualquer lugar; 
 1. Possibilidade de registro de informações de viagens e avaliações de locais; 
@@ -31,8 +31,6 @@ Quanto aos objetivos específicos deste trabalho, podemos destacar:
 
 Em um cenário de constantes viagens, o controle das informações torna-se cada vez mais importante para termos um histórico de todos os locais visitados e se os mesmos foram ruins, regulares, bom, ótimo ou excelente. Um aplicativo mobile para gestão destas informações é fundamental para o viajante registrar, avaliar, acessar e compartilhar suas experiências de viagem. Este projeto oferecerá uma grande oportunidade para esse público criar um diário de suas viagens de forma rápida, simples e eficaz. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
